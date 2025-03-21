@@ -8,7 +8,7 @@ use Spatie\Permission\Models\Permission;
 use App\Models\User;
 use App\Models\Tarea;
 
-class DataBaseSeeder extends Seeder
+class DatabaseSeeder extends Seeder
 {
     public function run()
     {
